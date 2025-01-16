@@ -12,15 +12,21 @@ The system features distinct graphical user interfaces (GUIs) for librarians and
 
 SQL Database Integration:
 Built on Java SQL and JDBC, the system integrates seamlessly with a relational database to store and retrieve data efficiently, allowing real-time updates and easy data management.
+
 Library Resources Management:
 Librarians can manage books, journals, and other resources by adding, updating, and deleting entries. The system also supports searching and filtering to quickly locate specific materials.
+
 Transaction Tracking: 
 The system allows administrators and librarians to track the issue and return of resources, manage late fees, and keep detailed records of user activity.
+
 Technologies Used:
+
 JDBC & Java SQL:
 Ensuring a secure and scalable connection to the database, facilitating efficient data handling for all library transactions.
+
 Java Swing: 
 The Graphical User Interface (GUI) is built using Java Swing, offering an intuitive and user-friendly interface for both librarians and administrators. The Swing-based design ensures smooth navigation and minimal bloatware for better system performance.
+
 SQL Database: 
 The backend is powered by an SQL database, providing a reliable and structured way to store and manage the library's data, supporting various operations with speed and accuracy.
 
